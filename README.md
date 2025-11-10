@@ -4,6 +4,8 @@ Questo repository contiene il progetto universitario per il corso **“Reti di C
 
 ---
 
+![Schema della rete](Immagine_Rete_Aziendale.png)
+
 ## 📘 Descrizione
 Il progetto prevede la **progettazione e simulazione di una rete aziendale** comprendente 4 edifici e una DMZ, utilizzando **Cisco Packet Tracer**.  
 La rete è stata sviluppata seguendo le specifiche fornite dal docente, con configurazione completa di:
