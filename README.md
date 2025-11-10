@@ -58,7 +58,7 @@ La rete è stata sviluppata seguendo le specifiche fornite dal docente, con conf
 ---
 
 ## 💻 File inclusi
-- `Documentazione_AlunniSantoniAlessio_360481.pdf` → relazione completa del progetto  
+- `Documentazione_ReteAziendale.pdf` → relazione completa del progetto  
 - `Progetto_Rete_Aziendale.pkt` → simulazione su Cisco Packet Tracer  
 - `README.md` → documento introduttivo (questo file)
 
@@ -66,7 +66,6 @@ La rete è stata sviluppata seguendo le specifiche fornite dal docente, con conf
 
 ## 🧾 Autore
 **Alunni Santoni Alessio**  
-Matricola: 360481  
 Università degli Studi di Perugia – Dipartimento di Matematica e Informatica  
 Corso: *Reti di Calcolatori – Protocolli*  
 
