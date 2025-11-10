@@ -58,7 +58,7 @@ La rete è stata sviluppata seguendo le specifiche fornite dal docente, con conf
 ---
 
 ## 💻 File inclusi
-- `Documentazione_ReteAziendale.pdf` → relazione completa del progetto  
+- `Documentazione_Rete_Aziendale.pdf` → relazione completa del progetto  
 - `Progetto_Rete_Aziendale.pkt` → simulazione su Cisco Packet Tracer  
 - `README.md` → documento introduttivo (questo file)
 
